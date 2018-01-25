@@ -1,0 +1,2 @@
+global:
+    prop1: app2-prod override
